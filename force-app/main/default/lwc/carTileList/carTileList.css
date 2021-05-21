@@ -1,0 +1,11 @@
+.content{
+    display:flex;
+    flex-wrap:wrap;
+}
+.c-car-tile{
+ min-width:200px;
+ flex:1;
+}
+.wrapper{
+    background:#e3e5e4;
+}
